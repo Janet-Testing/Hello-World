@@ -1,5 +1,5 @@
 #!/usr/bin/env monkeyrunner
-# This script is for test
+# Changed by Janet 20160510
 # Launch camera->clicking shutter button->capture screen->back to home
 import time
 import os
